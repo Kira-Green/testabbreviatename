@@ -1,0 +1,11 @@
+{
+  "name": "testdevelop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "abbreviate-name.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
